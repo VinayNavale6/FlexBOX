@@ -2,7 +2,7 @@
 Flexbox mastery in PROGRESS.
 
 Flexbox is a CSS layout model that helps distribute space and align items in a container efficiently, even when their size is unknown or dynamic.
-To use it, set "display: flex" on a container and the child elements become flex items.
+To use it, set `display: flex` on a container and the child elements become flex items.
 
 The `justify-content` property controls horizontal alignment (start, center, space-between, etc.).
 The `align-items` property controls vertical alignment on the cross axis.
