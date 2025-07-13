@@ -1,0 +1,74 @@
+p{
+    font-family:Arial;
+    margin-top:0;
+    margin-bottom:0;
+}
+.container{
+    display:flex;
+    width:420px;
+    height:300px;
+    border-width: 2px;
+    border-style:solid;
+    border-color: rgba(128, 128, 128, 0.388);
+    flex-direction: column;
+    border-radius: 4px;
+    border:none;
+    box-shadow:0px 0px 5px gray;
+    margin-left:10px;
+    margin-top:20px;
+}
+.inbox{
+    display:flex;
+    padding-top: 9px;
+    padding-left: 13px;
+    font-size:13px;
+    color:gray;
+    margin-bottom: 12px;;
+    
+}
+.dog-size{
+    display:flex;
+}
+.dog-img{
+    width:49px;
+    height:48px;
+    display: flex;
+    margin-top:6px;
+    margin-left:12px;
+    margin-right:9px;
+    border-radius: 30px;
+}
+.dog-name{
+    display:flex;
+}
+.text-size{
+    display:flex;
+    flex-direction:column;
+    
+}
+
+.time-size{
+    font-size: 13px;;
+    color:gray;
+    display:flex;
+    flex:1;
+    flex-direction:row;
+    justify-content:flex-end;
+}
+.dog-title{
+    font-weight:bold;
+    font-size:16px;
+    margin-bottom: 3px;
+    flex-direction:row;
+    width:220px;
+    
+}
+.sale-year{
+    font-weight:bold;
+    font-size:15px;
+    margin-bottom:5px;
+}
+.context{
+    color:gray;
+    margin-bottom: 25px;;
+}
